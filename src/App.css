@@ -1,0 +1,25 @@
+.App {
+  background-color: #5175ad;
+  height: 100vh;
+  width: 100vw;
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+}
+.heading {
+  margin: 50px;
+  background-color: #fcba03;
+  color: black;
+  font-size: 25px;
+  border-radius: 12px;
+  border: none;
+  height: 150px;
+  width: 150px;
+}
+.topic {
+  color: white;
+}
